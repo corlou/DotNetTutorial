@@ -27,3 +27,4 @@ c:\Users\CorinaPelichowski\Desktop\DotNetTutorial\DotNetTutorial\obj\Debug\net8.
 c:\Users\CorinaPelichowski\Desktop\DotNetTutorial\DotNetTutorial\obj\Debug\net8.0\DotNetTutorial.pdb
 c:\Users\CorinaPelichowski\Desktop\DotNetTutorial\DotNetTutorial\obj\Debug\net8.0\DotNetTutorial.genruntimeconfig.cache
 c:\Users\CorinaPelichowski\Desktop\DotNetTutorial\DotNetTutorial\obj\Debug\net8.0\ref\DotNetTutorial.dll
+C:\Users\CorinaPelichowski\Desktop\DotNetTutorial\DotNetTutorial\obj\Debug\net8.0\DotNetTutorial.sourcelink.json
