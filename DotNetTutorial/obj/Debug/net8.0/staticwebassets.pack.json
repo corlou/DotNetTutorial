@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\CorinaPelichowski\\Desktop\\DotNetTutorial\\DotNetTutorial\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DotNetTutorial.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DotNetTutorial.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\CorinaPelichowski\\Desktop\\DotNetTutorial\\DotNetTutorial\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\CorinaPelichowski\\Desktop\\DotNetTutorial\\DotNetTutorial\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CorinaPelichowski\\Desktop\\DotNetTutorial\\DotNetTutorial\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CorinaPelichowski\\Desktop\\DotNetTutorial\\DotNetTutorial\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DotNetTutorial.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DotNetTutorial.props",
+      "PackagePath": "build\\DotNetTutorial.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DotNetTutorial.props",
+      "PackagePath": "buildMultiTargeting\\DotNetTutorial.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DotNetTutorial.props",
+      "PackagePath": "buildTransitive\\DotNetTutorial.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
